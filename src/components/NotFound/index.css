@@ -1,0 +1,29 @@
+.nf-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 90vh;
+  padding: 5%;
+}
+
+.nf-image {
+  width: 60%;
+  max-width: 500px;
+  margin: 0px;
+}
+
+.nf-heading {
+  color: #475569;
+  font-size: xx-large;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 20px;
+}
+
+.nf-para {
+  color: #64748b;
+  font-size: small;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 0px;
+}

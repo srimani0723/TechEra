@@ -1,0 +1,16 @@
+
+.cid-bp{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 90vh;
+  padding: 5%;
+}
+
+.cid-courses{
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,45 @@
+.fv-box{
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+  height: 90vh;
+}
+
+.fv-img{
+  width: 60%;
+  max-width: 500px;
+  margin: 0px;
+}
+
+.fv-h1{
+color: #475569;
+font-size: xx-large;
+font-family: 'Roboto';
+font-weight: 500;
+margin: 20px;
+}
+
+.fv-p{
+  color: #64748b;
+  font-size: small;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 0px;
+}
+
+.fv-btn{
+  color: #ffffff;
+  font-size: small;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding: 10px 20px;
+  border: 0px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  width: 100px;
+  margin-top: 20px;
+  background-color: #4656a1;
+}

@@ -1,0 +1,13 @@
+.nav-navbar {
+  display: flex;
+  align-items: center;
+
+  height: 10vh;
+  padding-left: 5%;
+  background-color: #f1f5f9;
+}
+
+.nav-image {
+  width: 30%;
+  cursor: pointer;
+}
